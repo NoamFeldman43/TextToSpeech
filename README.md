@@ -52,3 +52,5 @@ The code lists available voices (language models) that can be used for text-to-s
      voices = tts.list_voices().get_result()
      print(json.dumps(voices, indent=2))
     
+
+happy coding ⭐
