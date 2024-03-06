@@ -5,4 +5,6 @@ This documentation provides instructions on how to use the IBM Watson Text-to-Sp
 ## Setup Instructions
 # 1. Install Dependencies
 
-    Ensure you have the required dependencies installed. You can install them using pip:
+Ensure you have the required dependencies installed. You can install them using pip:
+
+    !pip install ibm_watson
